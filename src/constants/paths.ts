@@ -9,6 +9,7 @@ export const PATHS = {
   NOTIFICATIONS: "/notifications",
   HOME: "/",
   DETAIL: "program/:id",
+  UPLOAD: "/upload",
   // DASHBOARD: "/dashboard",
   // PROFILE: "/profile",
   // NOT_FOUND: "/not-found",
